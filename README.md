@@ -25,6 +25,13 @@ This project was developed collaboratively by three undergraduate students.
 - Analyze historical international football performance
 - Build predictive Machine Learning models
 - Generate Business Intelligence insights for commercial decision-making
+-Sponsorship opportunities based on predicted finalists
+-Marketing budget allocation by country
+-Fan engagement strategies
+-Streaming demand forecasting
+-Merchandise demand estimation
+-Tourism and hospitality impact
+-Commercial partnership recommendations
 
 ---
 
