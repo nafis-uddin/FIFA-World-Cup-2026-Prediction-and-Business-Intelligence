@@ -2,17 +2,19 @@
 
 A collaborative Machine Learning and Business Intelligence project that predicts FIFA World Cup 2026 outcomes using historical football data while generating strategic business insights for sponsorship, marketing, and fan engagement.
 
+> **Note:** This project was developed collaboratively by the team with the assistance of AI-powered development tools for research, coding support, debugging, documentation, and workflow improvement. All project planning, implementation, validation, and final decisions were completed by the team members.
+
 ---
 
 ## Team
 
 This project was developed collaboratively by three undergraduate students.
 
-| Team Member | Role |
-|------------|------|
-| MD Nafis Uddin | Business Intelligence, Data Analysis, EDA, Feature Engineering | Business Insight
-| Sabiha Hossain Mehe | Machine Learning Model Development | Business Insight
-| Hasibul Hasan Rohan  | Data Collection, Model Evaluation & Testing | Business Insight
+| Team Member | Primary Contributions |
+|-------------|-----------------------|
+| MD Nafis Uddin | Data preprocessing, Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering, Business 
+| Sabiha Hossain Mehe | Machine Learning Model Development, Model Training, Business Intelligence Analysis |
+| Hasibul Hasan Rohan | Data Collection, Model Evaluation, Testing, Business Intelligence Analysis |
 
 ---
 
@@ -69,7 +71,7 @@ Historical international football match data including:
 
 ## Business Intelligence
 
-The project also generates business insights including:
+The project generates business insights including:
 
 - Sponsorship opportunities
 - Marketing budget recommendations
@@ -95,7 +97,7 @@ The project also generates business insights including:
 
 ## Team Collaboration
 
-This project was completed collaboratively through planning, development, testing, and documentation using GitHub for version control.
+The project was completed collaboratively using GitHub for version control, task coordination, code integration, testing, and documentation. Team members jointly reviewed results and validated the final outputs.
 
 ---
 
