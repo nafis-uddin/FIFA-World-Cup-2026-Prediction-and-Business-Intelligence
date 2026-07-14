@@ -10,9 +10,9 @@ This project was developed collaboratively by three undergraduate students.
 
 | Team Member | Role |
 |------------|------|
-| MD Nafis Uddin | Business Intelligence, Data Analysis, EDA, Feature Engineering |
-| Sabiha Hossain Mehe | Machine Learning Model Development |
-| Hasibul Hasan Rohan  | Data Collection, Model Evaluation & Testing |
+| MD Nafis Uddin | Business Intelligence, Data Analysis, EDA, Feature Engineering | Business Insight
+| Sabiha Hossain Mehe | Machine Learning Model Development | Business Insight
+| Hasibul Hasan Rohan  | Data Collection, Model Evaluation & Testing | Business Insight
 
 ---
 
